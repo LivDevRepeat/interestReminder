@@ -13,5 +13,10 @@ struct INTRESTApp: App {
         WindowGroup {
             ContentView()
         }
+
     }
+    
+
 }
+
+
