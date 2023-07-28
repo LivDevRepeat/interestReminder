@@ -1,13 +1,13 @@
 //
-//  INTRESTUITestsLaunchTests.swift
-//  INTRESTUITests
+//  InteresUITestsLaunchTests.swift
+//  InteresUITests
 //
 //  Created by Lina Vorpahl on 28.07.23.
 //
 
 import XCTest
 
-final class INTRESTUITestsLaunchTests: XCTestCase {
+final class InteresUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

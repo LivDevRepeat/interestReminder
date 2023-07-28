@@ -1,13 +1,13 @@
 //
-//  INTRESTUITests.swift
-//  INTRESTUITests
+//  InteresUITests.swift
+//  InteresUITests
 //
 //  Created by Lina Vorpahl on 28.07.23.
 //
 
 import XCTest
 
-final class INTRESTUITests: XCTestCase {
+final class InteresUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

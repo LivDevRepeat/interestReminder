@@ -1,14 +1,14 @@
 //
-//  INTRESTTests.swift
-//  INTRESTTests
+//  InteresTests.swift
+//  InteresTests
 //
 //  Created by Lina Vorpahl on 28.07.23.
 //
 
 import XCTest
-@testable import INTREST
+@testable import Interes
 
-final class INTRESTTests: XCTestCase {
+final class InteresTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
