@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T16:22:08.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.5" etag="7xCTmWY_1Lis2mOQ3WR5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T16:27:51.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nFqWTVACL09J7jbBYIRX" version="21.6.5" type="github">
   <diagram name="Page-1" id="NLlh_X6qQU1zA9pPPz15">
-    <mxGraphModel>
+    <mxGraphModel dx="1131" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ljNmjG3ROghNoshUjFmp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="360" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-4" value="Timer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-7" value="INTEREST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-8" value="RANDOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-9" value="Photo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-10" value="Photo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-14" value="Note " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-15" value="&lt;div&gt;We like this&amp;nbsp;&lt;/div&gt;&lt;div&gt;because&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ljNmjG3ROghNoshUjFmp-16" value="Interest Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="320" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
